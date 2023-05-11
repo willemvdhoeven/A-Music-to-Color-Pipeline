@@ -1,0 +1,11 @@
+name,key confidence,min pitch,max pitch,pitch_range,bpm,velocity,key_A- major,key_B- major,key_C major,key_F# major,key_a minor,key_d minor,time signature_2/4,time signature_2/8,time signature_3/4,time signature_4/4,Color
+Beethoven - opus22 4.mid,0.9270963382714253,29,89,60,85,51,0,1,0,0,0,0,1,0,0,0,Red
+Borodin - ps7.mid,0.8120962268456469,35,81,46,81,45,0,0,0,1,0,0,0,0,0,1,Black
+Chopin  - op18.mid,0.8179897506301799,37,99,62,208,54,1,0,0,0,0,0,0,0,1,0,White
+Cyndi Lauper - True Colors.mid,0.8085048040143642,36,95,59,90,99,0,0,1,0,0,0,0,0,0,1,Purple
+Frank Mills - Musicbox Dancer.mid,0.8055953804630042,31,91,60,125,103,0,0,1,0,0,0,0,0,0,1,Yellow
+George Benson - On Broadway.mid,0.7255210301382815,26,91,65,135,107,0,0,1,0,0,0,0,0,0,1,Yellow
+Grieg - Voeglein.mid,0.6933434262913882,33,100,67,176,55,0,0,0,0,0,1,0,1,0,0,Pink
+Mozart - 333 3.mid,0.9581450159214082,36,89,53,165,64,0,1,0,0,0,0,0,0,0,1,White
+The Corrs - Dreams.mid,0.8729259031314597,26,86,60,125,89,0,0,0,0,1,0,0,0,0,1,Purple
+ABBA - Money Money Money.mid,0.784848582138949,24,92,68,120,82,0,0,0,0,1,0,0,0,0,1,Purple
